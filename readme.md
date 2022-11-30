@@ -26,4 +26,4 @@
 
 ![Project Screenshot](https://img.shields.io/badge/LiveClass--26thNov-Project--06-darkgreen)
 
-![LCO](./output.png)
+![LCO](./Output.png)
