@@ -26,4 +26,4 @@
 
 ![Project Screenshot](https://img.shields.io/badge/LiveClass--26thNov-Project--06-darkgreen)
 
-![LCO](./Output.png)
+![justice-img](https://user-images.githubusercontent.com/112545072/210178126-cb8bd86a-3342-43e3-bc98-0b4eaf5f9ffe.png)
